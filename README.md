@@ -16,6 +16,8 @@ Twitter - https://x.com/DevilMyEyes
 
 Support me on Ko-Fi! - https://ko-fi.com/devilmyeyes
 # Notes
+Blood splat and arrow graphics based on "id1.wad"
+
 Doom 2 Intermission Map Screen features an episodic structure based on the old versions of SETUP.EXE give names for these episodes.
 
 Final Doom Intermission Map Screens are yet to be made ;)
