@@ -5,7 +5,7 @@ It has been tested on ports such as Woof,Nugget, Odamex and Gzdoom.
 # Credits
 elf-alchemist for porting the ID24 standard.
 
-Skunk for making the thyinterpic, he inspired me to work on my own intermission screens
+Skunk for making the thyinterpic, he inspired me to work on my own intermission screens.
 # Links
 Twitter - https://x.com/DevilMyEyes
 
