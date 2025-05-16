@@ -1,5 +1,5 @@
 # Doom-Intermission-Map-Screen-Project
-Doom Intermission Map Screen Project is a collection of intermission map screens mods for the IWADS (Ultimate Doom, DOOM II) + Sigil, Sigil2.
+Doom Intermission Map Screen Project is a collection of intermission map screens mods for the IWADS + Sigil, Sigil2.
 # Sourceports
 It has been tested on ports such as Woof,Nugget, Odamex and Gzdoom.
 # Credits
