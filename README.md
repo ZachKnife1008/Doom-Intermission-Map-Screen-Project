@@ -28,7 +28,7 @@ It has been tested on ports such as Woof, Nugget, Odamex and GZDoom.
 
 # Credits
 
-Map graphics done by DevilMyEyes
+Map graphics done by DevilMyEyes.
 
 Blood splat and arrow graphics based on Legacy of Rust, "id1.wad".
 
